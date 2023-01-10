@@ -1,0 +1,15 @@
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.csproj.AssemblyReference.cache
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.AssemblyInfoInputs.cache
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.AssemblyInfo.cs
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.csproj.CoreCompileInputs.cache
+C:\Users\hoste\Documents\PROJECTS\degıskenler\bin\Debug\net7.0\degıskenler.exe
+C:\Users\hoste\Documents\PROJECTS\degıskenler\bin\Debug\net7.0\degıskenler.deps.json
+C:\Users\hoste\Documents\PROJECTS\degıskenler\bin\Debug\net7.0\degıskenler.runtimeconfig.json
+C:\Users\hoste\Documents\PROJECTS\degıskenler\bin\Debug\net7.0\degıskenler.dll
+C:\Users\hoste\Documents\PROJECTS\degıskenler\bin\Debug\net7.0\degıskenler.pdb
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.dll
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\refint\degıskenler.dll
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.pdb
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\degıskenler.genruntimeconfig.cache
+C:\Users\hoste\Documents\PROJECTS\degıskenler\obj\Debug\net7.0\ref\degıskenler.dll
