@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj": {}
+    "c:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj": {
+    "c:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj",
+        "projectUniqueName": "c:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj",
         "projectName": "degıskenler",
-        "projectPath": "C:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj",
+        "projectPath": "c:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\degıskenler.csproj",
         "packagesPath": "C:\\Users\\hoste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\obj\\",
+        "outputPath": "c:\\Users\\hoste\\Documents\\PROJECTS\\degıskenler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoste\\AppData\\Roaming\\NuGet\\NuGet.Config"

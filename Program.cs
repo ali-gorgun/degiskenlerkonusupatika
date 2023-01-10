@@ -83,6 +83,8 @@ namespace degisken
            String hour = DateTime.Now.ToString( "HH:mm");
            Console.WriteLine(hour);
 
+           // ali gorgun
+
 
         }
     }
